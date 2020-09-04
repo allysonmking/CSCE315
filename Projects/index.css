@@ -1,0 +1,38 @@
+/* Topnav */
+.topnav {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+.row {
+  display: flex;
+}
+
+.column-left {
+  padding-left:100px;
+  padding-right:25px;
+}
+
+.column-right {
+  padding-left:25px;
+  padding-right:100px;
+}
