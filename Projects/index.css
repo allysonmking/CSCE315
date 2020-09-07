@@ -8,6 +8,12 @@
   display: flex;
 }
 
+h1 {
+  Font-Family: 'Merriweather', Serif;
+  Font-Size: 72px;
+  Text-Align: center
+}
+
 h2 {
   Font-Family: 'Merriweather', Serif;
   Font-Size: 60px;
@@ -16,6 +22,11 @@ h2 {
 h3 {
   Font-Family: 'Merriweather', Serif;
   Font-Size: 30px;
+}
+
+h4 {
+  Font-Family: 'Muli', Sans-Serif;
+  Font-Size: 24px
 }
 
 p {
@@ -30,8 +41,3 @@ p {
   Font-Family: 'Merriweather', Serif;
 }
 
-.verse{
-  Font-Family: 'Muli', Sans-Serif;
-  Font-Size: 20px;
-  ital
-}
